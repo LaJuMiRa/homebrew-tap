@@ -1,6 +1,6 @@
 cask "browsing-wrapped" do
-  version "1.0.0"
-  sha256 "329cb4f243629d634757546974e2af4b25860a47656a28f6ec93a31e0819bb34"
+  version "1.0.1"
+  sha256 "268c2a269b766ea76a2e19781bb2525840e87598f3c46976cf1d67c3279c4a50"
 
   url "https://github.com/LaJuMiRa/safari-wrapped/releases/download/v#{version}/Browsing-Wrapped-#{version}.zip"
   name "Browsing Wrapped"
