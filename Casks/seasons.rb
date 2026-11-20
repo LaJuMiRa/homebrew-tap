@@ -3,8 +3,8 @@
 #   1.0.0   e.g. 1.0.0
 #   0dff0a1e49c8f457eabc98a5ecd0ed80e8dc8ddd33737ef6834204d4960f15d0    from Seasons-<version>-arm64.zip.sha256 on the GitHub release page
 cask "seasons" do
-  version "1.0.0"
-  sha256 "0dff0a1e49c8f457eabc98a5ecd0ed80e8dc8ddd33737ef6834204d4960f15d0"
+  version "1.1.0"
+  sha256 "fa2b21a3123beeb000936298970d0cc642cfe1b56668caee156a6cc1d9c442bc"
 
   url "https://github.com/LaJuMiRa/Seasons/releases/download/v#{version}/Seasons-#{version}-arm64.zip"
   name "Seasons"
