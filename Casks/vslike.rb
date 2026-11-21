@@ -1,7 +1,7 @@
 # Homebrew cask for VsLike, rendered by render-cask.sh into Casks/vslike.rb of LaJuMiRa/homebrew-tap.
 cask "vslike" do
-  version "1.0.0"
-  sha256 "0a55eaef631d922ad7e1359d553ca8b2bccc85ef598123701299edc0a806e9de"
+  version "1.0.1"
+  sha256 "efa393e2fba0fb2355ad044d217ceacdaaf420dd99166a23aab23a5bedd2ab19"
 
   url "https://github.com/LaJuMiRa/vslike/releases/download/v#{version}/VsLike-#{version}-arm64.zip"
   name "VsLike"
